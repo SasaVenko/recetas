@@ -1,0 +1,1 @@
+Una sencilla página web realizada durante el curso de fundamentos del Proyecto Odín. Al hacer clic en el enlace de una receta, se mostrarán las instrucciones y los ingredientes necesarios para preparar el plato.
